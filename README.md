@@ -1,4 +1,2 @@
 # CobaFiturGit
-Buat nyoba fitur fitur di github
-
-percobaan ke 1
+Halo, ini commit pertama
